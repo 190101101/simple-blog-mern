@@ -1,0 +1,11 @@
+npm init -y
+npm install --save express
+npm install --save nodemon
+npm install --save jsonwebtoken
+npm install --save mongoose
+npm install --save dotenv
+npm install --save express-validator
+npm install --save bcryptjs
+npm install --save multer
+npm install --save cors
+
